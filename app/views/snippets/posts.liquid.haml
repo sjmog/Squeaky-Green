@@ -1,0 +1,29 @@
+.posts
+  {% for post in contents.posts %}
+  .post-listing.row
+    .large-2.columns.hide-for-small
+      .post-date
+        %p.post-day
+          {{ post.posted_at | date: '%d' }}
+        %p.post-month
+          {{ post.posted_at | date: '%b' }}
+    .large-8.small-12.columns
+      %h3.post-title {{ post.title | escape }}
+      %h3.post-subtitle {{ post.subtitle | escape }}
+
+      {% if post.location %}
+      %p {{ post.location | escape }}. {{ post.posted_at | localized_date: '%Y' }}.
+      {% else %}
+      %p {{ post.posted_at | localized_date '%Y' }}.
+      {% endif %}
+
+      .post-content
+        {% if post.featured_image.url %}
+        %img{ src: "{{ post.featured_image.url | resize: '400x200#' }}", alt: "{{ post.title | escape }}" }
+        {% endif %}
+        {{ post.body | prettyprint | paragraph }}
+
+    .large-2.small-12.columns.post-social
+      {% include post_social %}
+
+  {% endfor %}

@@ -1,0 +1,15 @@
+%form{ action: '{{ contents.emails.public_submission_url }}', method: 'POST' }
+  {% csrf_param %}
+  .row.collapse
+    %input{ type: 'hidden', value: '/email-registered', name: 'success_callback' }
+    %input{ type: 'hidden', value: '/index', name: 'error_callback' }
+
+    .small-12.columns
+      %input{ type: 'text', name: 'content[email]', placeholder: 'Join our email newsletter', class: '{% if email.errors.size > 0 %}error{% endif %}' }>
+      {% if email.errors %}
+      %small.error> {{ email.errors | first | last | capitalize }}
+      {% endif %}
+  
+  .row
+    .small-4.columns.small-offset-8
+      %button.block{ type: 'submit' }

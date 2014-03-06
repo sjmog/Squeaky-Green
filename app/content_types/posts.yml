@@ -1,0 +1,72 @@
+# Public name of this content type
+name: Posts
+
+# TODO: explain
+slug: posts
+
+# Explanation for the backoffice
+description: Blog posts.
+
+# Default field (e.g title)
+label_field_name: title
+
+# Order of entries
+order_by: posted_at # default: manually, also available: created_at or any field slug
+
+# Order direction
+order_direction: desc # default: asc, also available: desc
+
+# Display entries grouped by <field> in the backoffice
+# group_by: <your field>
+
+# Activate public 'create' API (e.g for a contact form)
+# public_submission_enabled: false
+
+# Emails to be notified on new entries using the public API
+# public_submission_accounts: ['john@acme.net']
+
+# Describe each field. The name shoud always be an underscored string
+fields: 
+- title: # Name of the field
+    label: Title
+    type: string
+    required: true
+    hint: The main title for the post.
+    localized: false
+
+- posted_at: # Name of the field
+    label: Posted at
+    type: date_time
+    required: true
+    hint: The date of posting.
+    localized: false
+
+- subtitle: # Name of the field
+    label: Subtitle
+    type: string
+    required: false
+    hint: A subtitle for the post, displayed below the title.
+    localized: false
+
+- featured_image: # Name of the field
+    label: Featured image
+    type: file
+    required: false
+    hint: The main image for the post.
+    localized: false
+
+- body: # Name of the field
+    label: Body
+    type: text
+    required: false
+    hint: The main post text.
+    localized: false
+    # Enable or not the RTE [html|text]
+    text_formatting: html
+
+- location: # Name of the field
+    label: Location
+    type: string
+    required: false
+    hint: The location the post was created.
+    localized: false

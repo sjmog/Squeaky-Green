@@ -1,0 +1,16 @@
+{% if editing %}
+{% assign social_rss_url = "#" %}
+{% assign social_twitter_url = "#" %}
+{% assign social_facebook_url = "#" %}
+{% assign social_instagram_url = "#" %}
+{% endif %}
+
+.footer-box
+  %h4 Get Social
+  .row.quarter-padding
+    .small-4.columns
+      %a.social-link.facebook{ href: '{{ social_facebook_url }}' }
+    .small-4.columns
+      %a.social-link.twitter{ href: '{{ social_twitter_url }}' }
+    .small-4.columns
+      %a.social-link.instagram{ href: '{{ social_instagram_url }}' }

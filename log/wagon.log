@@ -1,0 +1,2708 @@
+# Logfile created on 2014-03-06 11:38:41 +0000 by logger.rb/1.2.8
+[0;97;49mStarted GET "/" at 2014-03-06 11:38:55 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 33.7ms
+
+[0m
+[0;97;49mStarted GET "/projects/project-4" at 2014-03-06 11:39:03 +0000[0m
+Detecting locale EN
+Found page "Template page of a project" [projects/*]
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 11:39:08 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.2ms
+
+[0m
+[0;97;49mStarted GET "/projects/project-2" at 2014-03-06 11:39:16 +0000[0m
+Detecting locale EN
+Found page "Template page of a project" [projects/*]
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:07:46 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 31.9ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-03-06 13:08:37 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:08:39 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 22.1ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-03-06 13:08:56 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:08:57 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 19.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:09:26 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:09:31 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 19.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:10:11 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:18:20 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:18:24 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Unknown snippet "footer" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:19:09 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:19:10 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:20:19 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:20:25 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:20:26 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:20:30 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet newsletter_form
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:22:19 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:22:19 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 16.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:22:52 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:22:52 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:22:57 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:24:47 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:24:47 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet social_links
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:25:35 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:25:35 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Unknown snippet "menu" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:26:15 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:26:16 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+[0;31;49m[ERROR] Unknown snippet "legal" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:26:20 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+[0;31;49m[ERROR] Unknown snippet "legal" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:26:51 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+[0;31;49m[ERROR] Unknown snippet "legal" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:26:51 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:26:56 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 16.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:27:56 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:27:56 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:28:05 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:28:20 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:28:20 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:28:39 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:29:22 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:29:22 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:29:42 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:29:42 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:29:48 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:29:48 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:30:00 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:30:00 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:30:04 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:30:04 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:31:24 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:31:25 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+[0;31;49m[ERROR] Inconsistent indentation: "\t\t\t  " used for indentation, but the rest of the document was indented using 1 tab. - ./app/views/pages/index.liquid.haml:17:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:31:33 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+[0;31;49m[ERROR] Inconsistent indentation: "\t\t\t  " used for indentation, but the rest of the document was indented using 1 tab. - ./app/views/pages/index.liquid.haml:17:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:31:53 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:31:53 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+[0;31;49m[ERROR] Inconsistent indentation: "\t\t\t  " used for indentation, but the rest of the document was indented using 1 tab. - ./app/views/pages/index.liquid.haml:17:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:32:32 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+[0;31;49m[ERROR] Inconsistent indentation: "\t\t\t  " used for indentation, but the rest of the document was indented using 1 tab. - ./app/views/pages/index.liquid.haml:17:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:32:33 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:32:34 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:33:26 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:33:26 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:33:49 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:33:49 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:33:54 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+* Reloaded "pages", "snippets" at 2014-03-06 13:33:54 +0000
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:33:57 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:33:57 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:34:01 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:34:01 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:34:10 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:34:10 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:34:12 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:34:59 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:34:59 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:35:08 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:35:08 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:35:16 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:35:16 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:35:33 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:35:33 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:35:55 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:35:55 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:36:07 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:36:07 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:37:15 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:37:15 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:37:19 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:37:33 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:37:33 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:37:38 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:37:38 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:37:54 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:37:54 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:38:06 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:38:06 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:38:20 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:38:20 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:38:24 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:38:24 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:38:28 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:38:28 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Inconsistent indentation: 5 spaces used for indentation, but the rest of the document was indented using 2 spaces. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:38:37 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Inconsistent indentation: 5 spaces used for indentation, but the rest of the document was indented using 2 spaces. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:38:37 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:38:43 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:38:43 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:8:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:38:47 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:38:47 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:39:03 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:39:04 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:39:11 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:39:11 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:39:28 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+[0;31;49m[ERROR] Illegal nesting: content can't be both given on the same line as %h2 and nested within it. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:39:28 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:40:05 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:40:05 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:40:07 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:40:11 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:40:11 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:42:06 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:42:07 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+[0;31;49m[ERROR] Unknown snippet "copyright" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:46:07 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:46:07 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 157.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:47:37 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:47:37 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "header" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:48:07 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:48:08 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:49:42 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:49:42 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 13:50:08 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:50:08 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+[0;31;49m[ERROR] Unknown snippet "ticker" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:50:35 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 13:50:35 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:52:53 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 13:55:50 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 13:55:51 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:00:57 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+[0;31;49m[ERROR] Unknown snippet "social_feed" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:00:57 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:01:01 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+[0;31;49m[ERROR] Inconsistent indentation: "\t\t\t\t  " used for indentation, but the rest of the document was indented using 1 tab. - ./app/views/pages/index.liquid.haml:19:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:01:03 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+[0;31;49m[ERROR] Inconsistent indentation: "\t\t\t\t  " used for indentation, but the rest of the document was indented using 1 tab. - ./app/views/pages/index.liquid.haml:19:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:01:03 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:01:10 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+[0;31;49m[ERROR] Inconsistent indentation: "\t\t\t\t  " used for indentation, but the rest of the document was indented using 1 tab. - ./app/views/pages/index.liquid.haml:19:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:02:35 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:02:35 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:03:23 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 41.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:03:24 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:03:37 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 19.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:04:01 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:04:01 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:05:40 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:05:41 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 14:05:44 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:05:44 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:06:19 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:06:19 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:08:03 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:08:03 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:10:34 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:10:34 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 22.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:11:05 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:11:05 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 22.9ms
+
+[0m
+[0;97;49mStarted POST "/entry_submissions/emails" at 2014-03-06 14:11:21 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 74.0ms
+
+[0m
+[0;97;49mStarted GET "/entry_submissions/emails" at 2014-03-06 14:12:05 +0000[0m
+Detecting locale EN
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:12:06 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:12:58 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:18:14 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.8ms
+
+[0m
+* Reloaded "content_entries" at 2014-03-06 14:18:15 +0000
+unknow content type "posts"
+unknow content type "posts"
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter.rb:95:in `with_locale'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_mounter-1.3.3/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/locomotivecms_wagon-1.3.3/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/Sam/.rvm/gems/ruby-2.0.0-p0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-03-06 14:18:15 +0000
+* Reloaded "content_types", "content_entries" at 2014-03-06 14:22:12 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:22:12 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:22:56 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:22:57 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 26.3ms
+
+[0m
+unable to get an API token: SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
+[0;97;49mStarted GET "/" at 2014-03-06 14:25:07 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet projects
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:25:08 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 14:32:58 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:32:59 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Illegal nesting: nesting within plain text is illegal. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:33:02 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Illegal nesting: nesting within plain text is illegal. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:33:15 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Illegal nesting: nesting within plain text is illegal. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:35:07 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Illegal nesting: nesting within plain text is illegal. - ./app/views/pages/index.liquid.haml:7:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:35:07 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:35:10 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Illegal nesting: nesting within plain text is illegal. - ./app/views/pages/index.liquid.haml:19:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:36:32 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:36:32 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Illegal nesting: nesting within plain text is illegal. - ./app/views/pages/index.liquid.haml:19:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:36:53 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:36:53 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] (haml):15: syntax error, unexpected tLABEL
+...st.featured_image.url | resize: '400x200#', alt: post.title ...
+...                               ^
+(haml):15: syntax error, unexpected ',', expecting tSTRING_DEND
+...image.url | resize: '400x200#', alt: post.title | escape )}>...
+...                               ^
+(haml):15: syntax error, unexpected ')', expecting tSTRING_DEND
+...0#', alt: post.title | escape )}>\n      {% endif %}\n      ...
+...                               ^
+(haml):15: syntax error, unexpected tSTRING_DEND
+...| escape )}>\n      {% endif %}\n      {{ post.body | escape...
+...                               ^
+(haml):15: syntax error, unexpected '}', expecting =>
+...\n      {{ post.body | escape }}\n    </div>\n  </div>\n  {%...
+...                               ^
+(haml):15: unknown regexp options - dv
+(haml):15: syntax error, unexpected $undefined
+...scape }}\n    </div>\n  </div>\n  {% endfor %}\n</div>\n", -...
+...                               ^
+(haml):15: syntax error, unexpected tSTRING_DEND
+.../div>\n  </div>\n  {% endfor %}\n</div>\n", -3, false);;_erb...
+...                               ^
+(haml):15: unterminated regexp meets end of file
+(haml):15: syntax error, unexpected end-of-input, expecting '}'
+...n</div>\n", -3, false);;_erbout
+...                               ^ - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:43:11 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:43:11 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 14:43:24 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:43:55 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 14:44:02 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.4ms
+
+[0m
+unable to get an API token: SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-03-06 14:44:59 +0000
+unable to get an API token: SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed
+[0;31;49m      template => can't be blank
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 14:50:43 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:05:13 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 47.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:08:34 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:08:47 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:08:54 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:08:59 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:15:01 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:15:02 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Unknown snippet "post_social" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:18:59 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] Unknown snippet "post_social" - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:18:59 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:19:03 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 19.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:21:08 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:21:09 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:21:12 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:21:37 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:21:38 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:23:57 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:23:57 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:24:51 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] wrong number of arguments (1 for 2) - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:25:16 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+[0;31;49m[ERROR] wrong number of arguments (1 for 2) - ./app/views/pages/index.liquid.haml:5:in `Home'
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:25:26 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:25:28 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.5ms
+
+[0m
+[0;97;49mStarted GET "/admin" at 2014-03-06 15:25:51 +0000[0m
+Detecting locale EN
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.2ms
+
+[0m
+[0;97;49mStarted GET "/_admin" at 2014-03-06 15:25:55 +0000[0m
+Detecting locale EN
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 4.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:25:58 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:26:25 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+* Reloaded "content_entries" at 2014-03-06 15:29:22 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:29:27 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:45:18 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 32.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:53:34 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:54:00 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:54:20 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:55:07 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:55:53 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:55:54 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:56:01 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 33.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:56:02 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:56:09 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 27.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:56:09 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 15:56:11 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 15:56:14 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:56:24 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 25.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:56:24 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:56:27 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 28.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 15:56:45 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 48.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 15:56:46 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 15:57:25 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 29.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:03:22 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 33.2ms
+
+[0m
+[0;97;49mStarted GET "/banner-header.jpg" at 2014-03-06 16:03:44 +0000[0m
+Detecting locale EN
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:04:05 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:05:32 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:13:00 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:13:24 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:13:24 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:14:41 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 30.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:15:00 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:15:00 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:15:41 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 30.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:17:45 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:17:45 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:17:57 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 65.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:21:31 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:21:32 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 66.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:22:59 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:23:00 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:23:05 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:23:05 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 75.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:25:01 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 22.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:25:01 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:25:51 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 33.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:27:55 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:34:35 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:34:35 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:34:58 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 31.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:36:09 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:36:09 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:36:12 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 48.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:36:31 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:36:32 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 28.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:37:01 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:39:18 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:39:19 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 28.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:39:49 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:41:16 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:45:26 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:45:27 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 29.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:46:58 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:46:58 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:48:18 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 23.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:49:03 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:50:26 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:50:26 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 38.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:50:46 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:50:46 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:50:51 +0000[0m
+Detecting locale EN
+* Reloaded "pages", "snippets" at 2014-03-06 16:50:51 +0000
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 95.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 16:53:21 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 16:56:46 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 16:56:46 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 25.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:02:40 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 17:02:40 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 17:03:01 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 33.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:03:33 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 17:03:33 +0000
+* Reloaded "pages", "snippets" at 2014-03-06 17:03:42 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 17:03:49 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 27.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:07:15 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-06 17:07:15 +0000
+[0;97;49mStarted GET "/" at 2014-03-06 17:07:19 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 29.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:08:42 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:09:22 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:09:43 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+[0;97;49mStarted GET "/" at 2014-03-06 17:09:43 +0000[0m
+  Rendered snippet menu
+Detecting locale EN
+  Rendered snippet social_links
+  Rendered snippet legal
+Found page "Home" [index]
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.1ms
+
+[0m
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:09:46 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-06 17:09:48 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
