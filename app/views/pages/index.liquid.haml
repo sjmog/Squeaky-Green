@@ -20,12 +20,16 @@ published: true
 
     {{ 'vendor/custom.modernizr.js' | javascript_tag }}
 
-    {{ 'vendor/zepto.js' | javascript_tag }}
+    {{ 'vendor/jquery.js' | javascript_tag }}
     {{ 'foundation.min.js' | javascript_tag }}
 
     {% inline_editor %}
 
   %body
+
+    .border.before-header
+      .border.right-half
+
     {% include header %}
 
     .container
@@ -55,4 +59,6 @@ published: true
     {% include 'footer' %}
 
     :javascript
-      Zepto(function($){ $(document).foundation() })
+      $(function($){ $(document).foundation() })
+
+    {{ 'slider.js' | javascript_tag }}

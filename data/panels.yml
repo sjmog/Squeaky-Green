@@ -1,0 +1,11 @@
+- "festival cleaning kit":
+    image: samples/panels/TheSqueakPackProductPhoto.jpg # Path to a file in the public/samples folder or to a remote and external file.
+    body: "Grab yourself a festival cleaning pack from Squeaky Green"
+
+- "product number two":
+    image: samples/panels/TheSqueakyDreamPack.jpg # Path to a file in the public/samples folder or to a remote and external file.
+    body: "Sed tempora libero rem nemo sint quos. Omnis odit veniam magni nemo perferendis neque. Quidem et ut possimus non enim vel sint sed."
+
+- "product number three":
+    image: samples/panels/VideoInterview_BucksNews.jpg # Path to a file in the public/samples folder or to a remote and external file.
+    body: "Temporibus nihil aut quod impedit tempore. Magni sint in ut aut maiores error aut qui. Accusamus laudantium doloribus mollitia. Ratione fugit et voluptates placeat et."
