@@ -5,7 +5,7 @@ name: Panels
 slug: panels
 
 # Explanation for the backoffice
-description: A description of the content type for the editors
+description: Panels displayed on the landing page ticker.
 
 # Default field (e.g title)
 label_field_name: title
@@ -31,28 +31,28 @@ fields:
     label: Title
     type: string
     required: true
-    hint: A description of the field for the editors
+    hint: The main heading in the info box on the panel.
     localized: false
 
 - subtitle: # Name of the field
     label: Subtitle
     type: string
     required: false
-    hint: A description of the field for the editors
+    hint: You can ignore this for now.
     localized: false
 
 - image: # Name of the field
     label: Image
     type: file
     required: false
-    hint: A description of the field for the editors
+    hint: The panel image. Go for a landscape image with an aspect ratio greater than 16:9.
     localized: false
 
 - body: # Name of the field
     label: Body
     type: text
     required: false
-    hint: A description of the field for the editors
+    hint: The description of the panel, displayed in the info box. It can contain links!
     localized: false
     # Enable or not the RTE [html|text]
     # text_formatting: html

@@ -10353,3 +10353,104 @@ Found page "Home" [index]
 [0;32;49mCompleted 200 OK in 165.6ms
 
 [0m
+[0;97;49mStarted GET "/" at 2014-03-09 19:00:40 +0000[0m
+Detecting locale EN
+[0;97;49mStarted GET "/" at 2014-03-09 19:00:40 +0000[0m
+Found page "Home" [index]
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet ticker
+  Rendered snippet newsletter
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet post_social
+  Rendered snippet legal
+  Rendered snippet posts
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+  Rendered snippet menu
+[0;32;49mCompleted 200 OK in 53.7ms
+
+[0m
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 57.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-09 19:00:43 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 16.3ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2014-03-09 19:04:42 +0000
+[0;97;49mStarted GET "/" at 2014-03-09 19:04:43 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+[0;97;49mStarted GET "/" at 2014-03-09 19:04:43 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet ticker
+  Rendered snippet newsletter
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered snippet copyright
+  Rendered liquid page template
+  Rendered snippet footer
+[0;32;49mCompleted 200 OK in 59.9ms
+
+[0m
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 56.1ms
+
+[0m
