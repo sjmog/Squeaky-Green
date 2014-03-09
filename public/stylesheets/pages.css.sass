@@ -1,5 +1,6 @@
 @import "compass"
 @import "variables"
+@import "fonts"
 
 body
   font-family: $default-font
@@ -9,6 +10,45 @@ a
   color: $col1alt
   &:hover
     color: lighten($col1alt, 20%)
+
+a.social-link
+  display: inline-block
+  width: 100%
+  min-height: 50px
+  color: #fff
+  &.small
+    min-height: 25px
+    width: 25px
+    background-size: 100% auto
+    background-position: center !important
+    margin: 0 !important
+
+  +border-radius(2px)
+
+  &.facebook
+    margin-left: 8px
+    background-image: url('../images/social_facebook.png')
+    background-repeat: no-repeat
+    background-position: left
+
+  &.twitter
+    margin-left: 5px
+    background-image: url('../images/social_twitter.png')
+    background-repeat: no-repeat
+    background-position: left
+
+  &.instagram
+    background-image: url('../images/social_instagram.png')
+    background-repeat: no-repeat
+    background-position: left
+
+  &.pinterest
+    background-image: url('../images/social_facebook.png')
+    background-repeat: no-repeat
+    background-position: left
+
+  &:active
+    +transform(translate(0, 2px))
 
 .container
   width: 100%
@@ -85,11 +125,17 @@ p
 .no-padding
   padding: 0 !important
 
+.no-max
+  max-width: none !important
+
 .img-title
   height: 60px
   background-repeat: no-repeat
   background-position: center
   background-size: 100%
+
+.columns.empty
+  height: 30px
 
 .border
   position: relative
@@ -97,18 +143,38 @@ p
   background: $bg1
   height: 30px
   width: 100%
-  @include box-shadow(0 8px 8px 0px rgba(0,0,0,0.2))
-  &.right-half
-    width: 50%
-    float: right
+  @include box-shadow(0 8px 8px 0px rgba(0,0,0,0.4))
+  &.alt
+    background: $bg2
+    @include box-shadow(none)
+    z-index: 0
+    height: 8px
+  &.rounded-lower-left
     @include border-radius(0 0 0 200px)
+  &.rounded-lower-right
+    @include border-radius(0 0 200px 0)
+  &.rounded-upper-left
+    @include border-radius(200px 0 0 0)
+  &.rounded-upper-right
+    @include border-radius(0 200px 0 0)
   & > .border
     top: 30px
+  &.after-header
+    @include box-shadow(none)
+    & > .border.small-5
+      top: -30px
+      @include box-shadow(0 -8px 8px 0px rgba(0,0,0,0.3))
+    & > .border.small-3
+      top: 0
+  &.small-5
+    width: 41.66667%
+  &.small-3
+    width: 25%
 
 header
   height: 400px
   background: $bg2alt
-  padding: 0px 0px 40px 0px
+  padding: 0px 0px 0px 0px
   position: relative
   .slider-holder
     position: absolute
@@ -127,6 +193,7 @@ header
       cursor: pointer
       z-index: 99999999
       .slider-left
+        display: none
         float: left
         height: 60px
         width: 60px
@@ -159,6 +226,32 @@ header
             @include border-radius(40px 40px 0 0)
             padding: 18px
             box-sizing: content-box
+            h2
+              color: white
+              font-style: normal
+              font-weight: 600
+              @include text-shadow(0px 0px 2px black)
+              font-size: 1.6em
+            h3
+              font-family: "Chaparral Pro", Arial
+              color: white
+              font-weight: 100
+              @include text-shadow(0px 0px 2px black)
+              font-size: 0.8em
+              position: relative
+              top: -2em
+              span
+                font-family: "remachine", script
+                font-size: 2.6rem
+                line-height: 2.6rem
+                position: relative
+                top: 0.4em
+                left: 0.1em
+            p
+              font-family: "Chaparral Pro", Arial
+              color: white
+              @include text-shadow(0px 0px 2px black)
+
           
   .logo
     width: 100%
@@ -169,13 +262,35 @@ header
     background-color: rgba(255,255,255,0.3)
     background-image: url('../images/sgn_logo.png')
     background-position: right
-    background-size: 100% auto
+    background-size: 80% auto
     background-repeat: no-repeat
+
+.social-feed
+  display: none
+  background: $bg2
+  @include border-radius(10px 10px 0 0)
+  position: relative
+  margin-top: 14px
+  .img-title
+    background-image: url('../images/feeds_header.png')
+  .form-row
+    background: $bg2alt
+    @include border-radius(10px 10px 0 0)
+  .feed-box
+    margin-top: 14px
+    background: #E5E5E5
+  p
+    font-variant: small-caps
+    color: white
+    font-size: 0.6em
+
 
 .newsletter
   background: $bg2
   @include border-radius(0 0 10px 10px)
   margin-bottom: 60px
+  position: relative
+  top: -22px
   .img-title
     background-image: url('../images/newsletter_header.png')
   .form-row
@@ -198,6 +313,7 @@ header
       background-size: auto 100%
 
 
+
 .posts
   margin-bottom: 20px
 
@@ -217,7 +333,7 @@ header
   width: 100px
   p
     color: $bg1
-    font-style: bold
+    font-weight: bold
     margin-bottom: 0
     &.post-day
       font-size: 4em
@@ -267,13 +383,15 @@ header
     &:after
       opacity: 1
   .columns
-    text-align: center
+    text-align: left
+    margin: 4px 0
+    @media screen and (max-width : 580px)
+      text-align: center !important
   a
     display: inline-block
     margin: 4px 0
-    i:before
-      display: inline-block
-      margin: 0 4px 0 0
+    position: relative
+    top: 6px
 
 footer
   background: $bg1
@@ -291,39 +409,6 @@ footer
     color: #fff
     &:hover
       color: $col1alt
-
-  a.social-link
-    display: inline-block
-    width: 100%
-    min-height: 50px
-    color: #fff
-
-    +border-radius(2px)
-
-    &.facebook
-      margin-left: 8px
-      background-image: url('../images/social_facebook.png')
-      background-repeat: no-repeat
-      background-position: left
-
-    &.twitter
-      margin-left: 5px
-      background-image: url('../images/social_twitter.png')
-      background-repeat: no-repeat
-      background-position: left
-
-    &.instagram
-      background-image: url('../images/social_instagram.png')
-      background-repeat: no-repeat
-      background-position: left
-
-    &.pinterest
-      background-image: url('../images/social_facebook.png')
-      background-repeat: no-repeat
-      background-position: left
-
-    &:active
-      +transform(translate(0, 2px))
 
   .footer-box
     min-height: 140px

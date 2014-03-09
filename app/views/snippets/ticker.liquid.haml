@@ -9,6 +9,9 @@
       .row
         .large-5.small-10.small-centered.large-offset-5.columns.panel-info
           %h2 {{ panel.title | escape }}
-          %h3 {{ panel.subtitle | escape }}
+          %h3
+            from
+            %span
+              Squeaky Green
           %p {{ panel.body | escape }}
     {% endfor %}

@@ -12,8 +12,6 @@ published: true
     %meta{content: "width=device-width", name: "viewport"}/
     %title {{ site.seo_title }}
 
-    %link{ href: '//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css', rel: 'stylesheet', type: 'text/css' }
-
     {{ 'normalize.css' | stylesheet_tag }}
     {{ 'foundation.min.css' | stylesheet_tag }}
     {{ 'pages.css' | stylesheet_tag }}
@@ -27,12 +25,19 @@ published: true
 
   %body
 
-    .border.before-header
-      .border.right-half
+    .border.before-header.row.no-max
+      .border.small-5.columns.small-offset-7.rounded-lower-left
 
     {% include header %}
+    
+    .border.after-header.row.no-max
+      .border.small-5.columns.rounded-upper-right
+      .small-7.columns.empty
+      .border.small-3.columns.rounded-lower-right
+      .border.small-3.columns.small-offset-6.rounded-lower-left
 
     .container
+      .row.border.alt
       {% block main %}
       .row
         .small-12.large-6.large-centered.columns
@@ -62,3 +67,4 @@ published: true
       $(function($){ $(document).foundation() })
 
     {{ 'slider.js' | javascript_tag }}
+    {{ 'facebook.js' | javascript_tag }}

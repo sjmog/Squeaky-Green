@@ -20,4 +20,9 @@ group :misc do
   # Add your extra gems here
   # gem 'susy', require: 'susy'
   # gem 'redcarpet', require: 'redcarpet'
+  gem 'koala' #nice Facebook API, https://github.com/arsduo/koala/wiki
+  gem 'twitter', '>= 5.0.0.rc.1' #nice Twitter API, http://rdoc.info/gems/twitter
+  gem 'linkedin' #nice LinkedIn API, https://github.com/hexgnu/linkedin
+  gem 'rest_client' #an easy REST client for connecting to various APIs
+  gem 'chronic' #tasty natural date parsing
 end

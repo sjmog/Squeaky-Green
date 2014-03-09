@@ -5,9 +5,12 @@ GEM
     activesupport (3.2.15)
       i18n (~> 0.6, >= 0.6.4)
       multi_json (~> 1.0)
+    addressable (2.3.5)
+    atomic (1.1.14)
     better_errors (1.0.1)
       coderay (>= 1.0.0)
       erubis (>= 2.6.6)
+    buftok (0.2.0)
     chronic (0.10.2)
     chunky_png (1.2.9)
     coderay (1.1.0)
@@ -25,27 +28,42 @@ GEM
     dragonfly (0.9.15)
       multi_json (~> 1.0)
       rack
+    equalizer (0.0.9)
     erubis (2.7.0)
     eventmachine (1.0.3)
     execjs (2.0.2)
     faker (0.9.5)
       i18n (~> 0.4)
+    faraday (0.9.0)
+      multipart-post (>= 1.2, < 3)
     ffi (1.9.3)
     fssm (0.2.10)
     haml (4.0.4)
       tilt
+    hashie (2.0.5)
     hike (1.2.3)
     httmultiparty (0.3.10)
       httparty (>= 0.7.3)
       multipart-post
+    http (0.5.0)
+      http_parser.rb
+    http_parser.rb (0.6.0)
     httparty (0.12.0)
       json (~> 1.8)
       multi_xml (>= 0.5.2)
     i18n (0.6.5)
     json (1.8.1)
+    koala (1.9.0)
+      addressable
+      faraday
+      multi_json
     less (2.2.2)
       commonjs (~> 0.2.6)
     libv8 (3.16.14.3)
+    linkedin (0.4.6)
+      hashie (>= 1.2, < 2.1)
+      multi_json (~> 1.0)
+      oauth (~> 0.4)
     listen (0.7.3)
     locomotivecms-liquid (2.6.0)
     locomotivecms-solid (0.2.2.1)
@@ -90,10 +108,15 @@ GEM
       thor
       will_paginate (~> 3.0.3)
     logger (1.2.8)
+    memoizable (0.4.0)
+      thread_safe (~> 0.1.3)
     mime-types (1.25.1)
     multi_json (1.7.9)
     multi_xml (0.5.5)
     multipart-post (1.2.0)
+    naught (1.0.0)
+    netrc (0.7.7)
+    oauth (0.4.7)
     rack (1.5.2)
     rack-cache (1.2)
       rack (>= 0.4)
@@ -102,7 +125,10 @@ GEM
       ffi (>= 0.5.0)
     redcarpet (3.0.0)
     ref (1.0.5)
+    rest_client (1.7.3)
+      netrc (~> 0.7.7)
     sass (3.2.12)
+    simple_oauth (0.2.0)
     sprockets (2.10.1)
       hike (~> 1.2)
       multi_json (~> 1.0)
@@ -120,7 +146,20 @@ GEM
       eventmachine (>= 0.12.6)
       rack (>= 1.0.0)
     thor (0.18.1)
+    thread_safe (0.1.3)
+      atomic
     tilt (1.4.1)
+    twitter (5.7.1)
+      addressable (~> 2.3)
+      buftok (~> 0.2.0)
+      equalizer (~> 0.0.9)
+      faraday (~> 0.9.0)
+      http (~> 0.5.0)
+      http_parser.rb (~> 0.6.0)
+      json (~> 1.8)
+      memoizable (~> 0.4.0)
+      naught (~> 1.0)
+      simple_oauth (~> 0.2.0)
     tzinfo (0.3.38)
     wdm (0.1.0)
     will_paginate (3.0.5)
@@ -130,8 +169,13 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  chronic
+  koala
+  linkedin
   locomotivecms_wagon (= 1.3.3)
   rb-fsevent (~> 0.9.1)
   rb-inotify (~> 0.9)
+  rest_client
   therubyracer
+  twitter (>= 5.0.0.rc.1)
   wdm (>= 0.1.0)

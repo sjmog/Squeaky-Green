@@ -1,22 +1,6 @@
 .social-feed
-  .row
-    .small-4.columns.embroidery
-    .small-4.columns
-      %h1 Feeds
-    .small-4.columns.embroidery
-  .row
-    .feed-box
-  .row
-    .small-4.columns
-      %p [VIEW MORE FEEDS]
-    .small-4.columns
-      .row
-        .small-4.columns
-          %a.facebook#feed-1{ href: '#' }
-            %i.fa.fa-facebook
-        .small-4.columns
-          %a.twitter#feed-2{ href: '#' }
-            %i.fa.fa-twitter
-        .small-4.columns
-          %a.instagram#feed-3{ href: '#' }
-            %i.fa.fa-instagram
+  .row.no-margin
+    .small-11.small-centered.columns.img-title
+  .row.form-row.no-margin
+    .small-11.small-centered.columns
+      {% include feed_box %}
