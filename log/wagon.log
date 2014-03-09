@@ -10164,3 +10164,192 @@ Found page "Home" [index]
 [0;32;49mCompleted 200 OK in 104.0ms
 
 [0m
+[0;31;49m      source => You are not allowed to upload "" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc, can't be blank
+[0m
+[0;31;49m      source => You are not allowed to upload "" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc, can't be blank
+[0m
+[0;31;49m      source => You are not allowed to upload "" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc, can't be blank
+[0m
+[0;31;49m      source => You are not allowed to upload "" files, allowed types: jpg, jpeg, gif, png, css, js, swf, flv, eot, svg, ttf, woff, otf, ico, htc, can't be blank
+[0m
+[0;97;49mStarted GET "/" at 2014-03-09 18:38:55 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 85.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-09 18:39:43 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-09 18:39:43 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 26.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-09 18:39:48 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+[0;97;49mStarted GET "/" at 2014-03-09 18:39:48 +0000[0m
+  Rendered snippet footer
+Detecting locale EN
+[0;97;49mStarted GET "/" at 2014-03-09 18:39:48 +0000[0m
+  Rendered liquid page template
+Found page "Home" [index]
+Detecting locale EN
+[0;32;49mCompleted 200 OK in 38.2ms
+
+[0m
+  Rendered snippet ticker
+Found page "Home" [index]
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 32.6ms
+
+[0m
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 48.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-03-09 18:50:09 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-03-09 19:00:10 +0000
+[0;97;49mStarted GET "/" at 2014-03-09 19:00:14 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+[0;97;49mStarted GET "/" at 2014-03-09 19:00:14 +0000[0m
+Detecting locale EN
+Found page "Home" [index]
+  Rendered snippet ticker
+  Rendered snippet ticker
+  Rendered snippet feed_box
+  Rendered snippet feed_box
+  Rendered snippet social_feed
+  Rendered snippet social_feed
+  Rendered snippet header
+  Rendered snippet header
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter_form
+  Rendered snippet newsletter
+  Rendered snippet newsletter
+  Rendered snippet post_social
+  Rendered snippet post_social
+  Rendered snippet posts
+  Rendered snippet posts
+  Rendered snippet menu
+  Rendered snippet menu
+  Rendered snippet social_links
+  Rendered snippet social_links
+  Rendered snippet legal
+  Rendered snippet legal
+  Rendered snippet copyright
+  Rendered snippet copyright
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered liquid page template
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 159.9ms
+
+[0m
+[0;32;49mCompleted 200 OK in 165.6ms
+
+[0m

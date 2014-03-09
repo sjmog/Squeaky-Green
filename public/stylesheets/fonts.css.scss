@@ -18,3 +18,7 @@
 	     url('../fonts/ChaparralPro-Regular.ttf')  format('truetype'),
 	     url('../fonts/ChaparralPro-Regular.svg#ChaparralPro-Regular') format('svg');
 }
+
+.not-a-selector {
+	display: none;
+}

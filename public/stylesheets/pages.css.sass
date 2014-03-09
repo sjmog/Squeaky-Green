@@ -343,10 +343,21 @@ header
       font-size: 2em
       line-height: 1em
 
+.post-title
+  margin-top: 0
+  margin-bottom: 0
+  font-weight: bold
+  & + h3 + p
+    text-transform: uppercase
+    font-style: italic
+    font-size: 1.2em
+
+.post-subtitle
+  display: none
 
 .post-content
   position: relative
-  padding: 10px 0px 20px 0px
+  padding: 0px 0px 20px 0px
   &:after
     content: ""
     background-image: url('../images/divider_long.png')
@@ -368,6 +379,9 @@ header
   right: 0
   margin-bottom: 1.25em
   padding-bottom: 20px
+  @media screen and (max-width : 768px)
+    margin-top: 14px
+    position: relative
   &:after
     content: ""
     background-image: url('../images/divider_short.png')
@@ -385,8 +399,13 @@ header
   .columns
     text-align: left
     margin: 4px 0
-    @media screen and (max-width : 580px)
+    margin-left: 20%
+    float: none !important
+    @media screen and (max-width : 768px)
       text-align: center !important
+      margin-left: 0px
+      margin-top: 14px
+      float: left !important
   a
     display: inline-block
     margin: 4px 0
@@ -426,6 +445,9 @@ footer
     &.no-border
       &:after
         opacity: 0
+    @media screen and (max-width : 768px)
+      &:after
+        background-image: none
 
 .no-margin
   margin: 0 !important
